@@ -20,7 +20,7 @@ Welcome to my corner of GitHub! I’m an **AI enthusiast** and a passionate **Ma
 - Tools and frameworks that democratize AI, making it accessible to everyone.
 
 ## 📫 How to reach me:
-- Shoot me an email at SerchDavila98@example.com (replace with your real email)
+- Shoot me an email at SerchDavila98@gmail.com
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/SerchDavila98) (update with your actual profile)
 - Follow me on Twitter [@SerchDavila98](https://twitter.com/SerchDavila98) for AI insights and updates.
 
